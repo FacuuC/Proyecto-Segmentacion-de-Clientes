@@ -8,7 +8,7 @@ Este proyecto utiliza un dataset público de **Kaggle** sobre ventas de un e-com
 
 Simular la creación de un **informe gerencial** que permita a la dirección de la empresa:  
 - 🔍 Identificar **patrones de compra**.  
-- 👥 Reconocer **segmentos de clientes de alto potencial**.  
+- 👥 Reconocer **segmentos de clientes definidos**.  
 - 📈 Definir **estrategias basadas en datos** para optimizar las ventas y la retención.  
 
 ---
@@ -19,23 +19,20 @@ Simular la creación de un **informe gerencial** que permita a la dirección de 
 - 🗃️ **Pandas** → Manipulación y limpieza de datos  
 - 📊 **Matplotlib** → Visualización de datos  
 - 🤖 **Scikit-learn** → Técnicas de segmentación  
-- 📓 **Jupyter Notebook** → Desarrollo
+- 📓 **Jupyter Notebook** → Plataforma de desarrollo
 
 ---
 
 ## 📂 Contenido del repositorio  
-
-📂 Segmentacion-de-Clientes
-┣ 📁 notebooks/ → Código en Python con el análisis paso a paso
-┣ 📁 dataset/ → Dataset utilizado
-┗ 📁 reporte/ → Informe gerencial en PDF con conclusiones clave
+ 
+ 📁 notebooks/ → Código en Python con el análisis paso a paso.
+ 📁 reporte/ → Informe gerencial en PDF con conclusiones clave.
 
 ---
 
 ## 🔑 Resultados destacados  
 
-- 📉 Identificación de **tendencias de ventas** y períodos de mayor demanda.  
-- 👤 Detección de **segmentos de clientes más rentables**.  
+- 👤 Detección de **segmentos de clientes** contemplando consumo por país.  
 - 📑 Conclusiones claras y visuales para la **toma de decisiones estratégicas**.  
 
 ---
@@ -49,8 +46,8 @@ Este proyecto forma parte de mis primeros pasos en el camino de **Data Analytics
 ## 📬 Contacto  
 
 Si querés intercambiar ideas o dar feedback, podés encontrarme en:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/facucostamagna)  
-- 📧 **costamagnafacundo@gmail.com**  
+-  [LinkedIn](https://www.linkedin.com/in/facucostamagna)  
+-  **costamagnafacundo@gmail.com**  
 
 ---
 
